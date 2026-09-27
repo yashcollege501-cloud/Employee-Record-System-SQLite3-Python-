@@ -18,16 +18,4 @@ A lightweight, terminal-based **Employee Record Management System** built with *
 - **Language:** Python 3.x
 - **Database:** SQLite3 (Built-in)
 
-## 📦 How to Run
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd your-repository-name
-   ```
-3. Execute the Python script:
-   ```bash
-   python main.py
-   ```
+
